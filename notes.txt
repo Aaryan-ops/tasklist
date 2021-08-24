@@ -1,0 +1,13 @@
+install sass
+use semantic tags
+npm install node-sass
+google font
+overlay color and image bg
+react icons
+npm install react-icons --save
+react-day-picker.js.org
+npm install react-day-picker --save
+data-fns.org
+npm install date-fns --save
+
+heroicons.com
